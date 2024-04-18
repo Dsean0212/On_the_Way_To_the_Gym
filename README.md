@@ -1,6 +1,6 @@
 # On_the_Way_To_the_Gym
 
-請在 root directory 新增 **.env file**，並加入以下環境變數:
+Create **.env file** in root directory, and add the environment variables below:
 
 ```
 1.  DATABASE
@@ -11,7 +11,7 @@
 6.  DATABASE_DIALECT
 ```
 
-然後,
-1.  執行 `npm install`
-2.  執行 `npm i -g nodemon`
-2.  執行 `nodemon | node app.js`
+Then,
+1.  Run `npm install`
+2.  Run `npm i -g nodemon`
+2.  Run `nodemon | node app.js`
